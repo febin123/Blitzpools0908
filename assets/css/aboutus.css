@@ -646,6 +646,7 @@ li {
 
   .section-container1{
     flex-flow: row wrap;
+      margin-top: 80px;
   }
   .section-container1 .columns.image{
     display: block;
